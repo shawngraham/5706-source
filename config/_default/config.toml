@@ -1,4 +1,4 @@
-baseurl = "https://graddh.netlify.app"
+baseurl = "https://graddh.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
