@@ -1,5 +1,5 @@
 ---
-title: "Syllabus Reflection"
+title: "1. Syllabus Reflection"
 description: "Now that you've had a chance to explore the choose-your-own-syllabus, what has this experience taught you?"
 lead: "Now that you've had a chance to explore the choose-your-own-syllabus, what has this experience taught you?"
 date: 2020-11-12T13:26:54+01:00

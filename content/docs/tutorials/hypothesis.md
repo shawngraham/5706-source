@@ -1,7 +1,7 @@
 ---
 title: "Help With Hypothesis"
 description: "Guidance on getting set up with Hypothes.is"
-lead: "Get an account, install the plugin, and how to annotate."
+lead: "Get an account, install the plugin, and annotate."
 date: 2020-11-12T15:22:20+01:00
 lastmod: 2020-11-12T15:22:20+01:00
 draft: false

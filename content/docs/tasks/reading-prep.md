@@ -1,5 +1,5 @@
 ---
-title: "Reading Prep"
+title: "2. Reading Prep"
 description: "What you need to do to prep your readings for our asynchronous discussion"
 lead: "What you need to do to prep your readings for our asynchronous discussion."
 date: 2020-11-12T15:22:20+01:00
@@ -13,15 +13,21 @@ weight: 620
 toc: true
 ---
 
+```
+To be completed within week 1, Sept 13 - Sept 19
+```
+
 ## The task
 
 You have selected a suite of readings that are important or interesting to you. This week, you will set us up for a deeper engagement with the readings. You are the trailblazer, the guide, the scout, the point of first-contact, with a new and puzzling text. And boy, aren't those all colonialist tropes. How else could we describe the action of someone whose job it is, is to read and guide our understanding?
 
 You should provide a global 'overview' annotation, and around 3 - 5 good annotations on the document itself, to direct our attention to things that strike you as important.
 
+**Post in the 'reading-prep' channel in Discord _which_ readings you have annotated; provide direct links.
+
 ## The tool
 
-You will use the [hypothes.is](https://hypothes.is) web annotation tool to mark up the texts. Guidance for setting up an account for hypothesis, and using it to mark up pdfs and webpages, is under ['Tutorials'](/docs/tutorials/hypothesis). You will need to join our [hist5706 hypothesis reading group](https://hypothes.is/groups/VgaqzeDn/hist5706). When you have hypothesis turned on, and you're logged in, you have the choice of posting your annotations to the 'public' group or our 'hist5706' group. Choose the latter; otherwise, anyone who has hypothes.is will be able to see your annotations.
+You will use the [hypothes.is](https://hypothes.is) web annotation tool to mark up the texts. **Guidance for setting up an account for hypothesis, and using it to mark up pdfs and webpages, can be found [here](/docs/tutorials/hypothesis)**. You will need to join our [hist5706 hypothesis reading group](https://hypothes.is/groups/VgaqzeDn/hist5706). When you have hypothesis turned on, and you're logged in, you have the choice of posting your annotations to the 'public' group or our 'hist5706' group. Choose the latter; otherwise, anyone who has hypothes.is will be able to see your annotations.
 
 ## Tips for annotating passages in the text
 
