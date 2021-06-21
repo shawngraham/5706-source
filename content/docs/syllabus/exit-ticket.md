@@ -1,5 +1,5 @@
 ---
-title: "The Exit Ticket"
+title: "8. The Exit Ticket"
 description: "The Exit Ticket"
 lead: "The exit ticket is a summary assessment exercise that pulls all the different strings of your work together into a strong cord."
 date: 2020-10-13T15:21:01+02:00
@@ -8,10 +8,15 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "syllabus"
-weight: 130
+    parent: "tasks"
+weight: 690
 toc: true
 ---
+
+```text
+This is optional.
+If you choose to do it, it needs to be completed for the end of the term.
+```
 
 ## Format
 

@@ -1,5 +1,5 @@
 ---
-title: "4. Digital Basics"
+title: "3. Digital Basics"
 description: "Setting up your personal DigHist lab"
 lead: "Foundational Skills for Developing your own Digital History practice"
 date: 2020-11-12T15:22:20+01:00
@@ -14,7 +14,8 @@ toc: true
 ---
 
 ```
-To be started within week 3, Sept 27 - Sept; may be completed within week 4, Oct 4 - Oct 10
+To be started within week 3, Sept 27 - Sept.
+May be completed any time up to the end of week 4, Oct 4 - Oct 10
 ```
 
 ## The Task
@@ -22,6 +23,8 @@ To be started within week 3, Sept 27 - Sept; may be completed within week 4, Oct
 When you worked your way through the [CYOA](/docs/syllabus/cyoa) syllabus, you would have been presented with a **selection from the 'basics' listed below**. Do not be dismayed by the length of the list.
 
 The goal here is to get you set up with the tools / approaches that you'll need later on. Some of the items below involving merely installing things. Others are more conceptual. A few will involve some actual - gasp! - coding. _You'll be ok_. Do the tutorials as per your selection in the CYOA.
+
+As a reminder, these might include:
 
 + Writing in Markdown and Reproducible Research *mission critical*
 
@@ -37,6 +40,10 @@ The goal here is to get you set up with the tools / approaches that you'll need 
 
 + Scraping with R
 
-+ Scraping with Trifilatura
++ Scraping with Trafilatura
 
 + APIs with Python
+
+## Do I Have To Do These In Splendid Academic Isolation?
+
+No. No heroes here. Collaborate. Talk each other through things. Grab a cup of coffee, grab a beer. Find a nice picnic table out on the quad. Ask for help in discord. Show each other solutions to the problems you've encountered.

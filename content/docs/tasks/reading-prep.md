@@ -1,5 +1,5 @@
 ---
-title: "2. Reading Prep"
+title: "1. Reading Prep"
 description: "What you need to do to prep your readings for our asynchronous discussion"
 lead: "What you need to do to prep your readings for our asynchronous discussion."
 date: 2020-11-12T15:22:20+01:00
@@ -23,7 +23,7 @@ You have selected a suite of readings that are important or interesting to you. 
 
 You should provide a global 'overview' annotation, and around 3 - 5 good annotations on the document itself, to direct our attention to things that strike you as important.
 
-**Post in the 'reading-prep' channel in Discord _which_ readings you have annotated; provide direct links.
+**Post in the 'reading-prep' channel in Discord _which_ readings you have annotated; provide direct links.**
 
 ## The tool
 
