@@ -38,9 +38,7 @@ As a reminder, these might include:
 
 + Getting Anaconda set up
 
-+ Scraping with R
-
-+ Scraping with Trafilatura
++ Grabbing Data from the Web with R (and a quick primer on Excel, too)
 
 + APIs with Python
 
