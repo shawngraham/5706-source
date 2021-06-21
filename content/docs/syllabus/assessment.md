@@ -43,3 +43,13 @@ By the end of this course:
 - you will understand some of the ramifications for history of your different behind-the-scenes choices
 - you will have a sense of where digital history fits into the broader scheme of things
 - you will be excited, energized, and motivated (or quite possibly exhausted. But, if I haven't made a comlete dogs' breakfast of it, still excited and motivated.)
+
+## Percentage Breakdown
+
+I am required by the University to provide a percentage breakdown.
+
+    Module 1: 20 %
+    Module 2: 40 %
+    Module 3: 40 %
+
+I reserve the right to adjust those percentages to take into account the particular circumstances of the student, or to override them completely in favour of a compelling Exit Ticket.

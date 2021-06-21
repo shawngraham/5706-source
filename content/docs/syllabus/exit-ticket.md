@@ -14,8 +14,7 @@ toc: true
 ---
 
 ```text
-This is optional.
-If you choose to do it, it needs to be completed for the end of the term.
+This needs to be completed for the end of the term.
 ```
 
 ## Format
