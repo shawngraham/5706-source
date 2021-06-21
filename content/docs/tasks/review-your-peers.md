@@ -19,7 +19,7 @@ To be completed within week 12, Dec 6 - Dec 10.
 
 ## The Task
 
-Explore your peers' digital things. Select one that you find interesting. In the style of [_Reviews in DH_](https://reviewsindh.pubpub.org/review-process), write
+Explore your peers' digital things. Select one that you find interesting. In the style of [_Reviews in DH_](https://reviewsindh.pubpub.org/review-process), (and I am explicitly copying their directions below), write:
 
 400 - 500 words:
 
