@@ -26,21 +26,21 @@ The goal here is to get you set up with the tools / approaches that you'll need 
 
 As a reminder, these might include:
 
-+ Writing in Markdown and Reproducible Research *mission critical*
++ [Writing in Markdown and Reproducible Research](/docs/tutorials/markdown) *mission critical*
 
-+ Basics of Github (web interface) *mission critical*
++ [Basics of Github (web interface)](/docs/tutorials/github-basic) *mission critical*
 
-+ Basics of Github (command line interface) *mission critical*
++ [Basics of Github (command line interface)](/docs/tutorials/github-cli) *mission critical*
 
-+ Introduction to the Command Line / Terminal *mission critical*
++ Introduction to the Command Line / Terminal ([mac](/docs/tutorials/command-line-mac), [windows](/docs/tutorials/command-line-win)) *mission critical*
 
-+ Downloading with WGET
++ [Downloading files with WGET](/docs/tutorials/wget)
 
-+ Getting Anaconda set up
++ [Getting Anaconda set up](/docs/tutorials/anaconda)
 
-+ Grabbing Data from the Web with R (and a quick primer on Excel, too)
++ [Grabbing Data from the Web with R (and a quick primer on Excel, too)](/docs/tutorials/excel-and-r)
 
-+ APIs with Python
++ [APIs with Python](/docs/tutorials/apis)
 
 ## Do I Have To Do These In Splendid Academic Isolation?
 
