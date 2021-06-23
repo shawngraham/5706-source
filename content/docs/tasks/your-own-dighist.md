@@ -29,6 +29,10 @@ To be clear: this means _not_ that you are creating _the_ definitive work of dig
 
 _Capisce?_
 
+Work in digital history is cyclical. You might digitize some materials, then spend the majority of your time cleaning them up so that they can become _data_, only to realize you need to digitize more materials. You might spend a lot of time cleaning the data to do an analysis, only to realize once you start doing your _exploratory analysis and visualizations_ that you need to have _different_ data, or more data, or that the decisions you made while cleaning the data have influenced the question, and that you need to redo some of those steps. Cycles within cycles; and cleaning/manipulating/munging/re-arranging will take the majority of your time.
+
+This is normal, and to be expected, and is why you need to keep excellent process notes at every stage of the work.
+
 ### Subtasks
 
 You will need to
@@ -41,7 +45,7 @@ You will need to
 
 ### Outputs
 
-- 3 devlogs, at the end of **Week 7**, **Week 9**, and **Week 10**. A devlog, for our purposes, will be a post in the relevant discord channel that sums up your progress to that point (use bold text in your post eg: **Shawn's Devlog 2, Nov 17**). These do not need to be overly long. A couple of paragraphs is fine.
+- 3 devlogs, at the end of **Week 7**, **Week 9**, and **Week 10**. A devlog, for our purposes, will be a post in the relevant discord channel that sums up your progress to that point (use bold text in your post eg: **Shawn's Devlog 2, Nov 17**). These do not need to be overly long. A couple of paragraphs is fine. Alternatively, you can make the devlog a text file in your repository, and merely post the link for us in Discord (but nb, if your repo is private, no one can see it unless you explicitly share it with each username you want.)
 
 ### Completion Date
 
