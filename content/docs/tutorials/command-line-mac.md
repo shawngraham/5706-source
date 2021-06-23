@@ -1,5 +1,5 @@
 ---
-title: "Mac - Command Line"
+title: "Working at the Terminal for Mac"
 description: "A guide to getting started with the command line in the terminal on a Mac."
 lead: "A guide to getting started with the command line in the terminal on a Mac."
 date: 2020-11-12T15:22:20+01:00

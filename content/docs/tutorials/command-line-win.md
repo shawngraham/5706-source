@@ -1,5 +1,5 @@
 ---
-title: "PC - Command Line"
+title: "Command Line Basics for PC"
 description: "A guide to getting started with the command line in the terminal on a PC."
 lead: "A guide to getting started with the command line in the terminal on a PC."
 date: 2020-11-12T15:22:20+01:00
