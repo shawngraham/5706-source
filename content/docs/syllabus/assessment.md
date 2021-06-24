@@ -21,7 +21,7 @@ There are a lot of moving parts in this class. The course is arranged into modul
 - Module 2 How Do They Do That?
 - Module 3 Your Own Digital History
 
-And within each module, there are a lot of different things that we will be doing. In the first week, after you've had a chance to examine this website and the [interactive syllabus](/docs/syllabus/cyoa), you'll indicate to me the percentage breakdown you want each module to count for. We do this largely to keep the university happy; when I submit the print version of this website to the university, I will suggest that each module is worth 30%, with a final 10% for an exit ticket
+And within each module, there are a lot of different things that we will be doing. In the first week, after you've had a chance to examine this website and the [interactive syllabus](/docs/syllabus/cyoa), you'll indicate to me the percentage breakdown you want each module to count for.
 
 ## Learning Goals
 
@@ -52,4 +52,4 @@ I am required by the University to provide a percentage breakdown.
     Module 2: 33 %
     Module 3: 33 %
 
-I reserve the right to adjust those percentages to take into account the particular circumstances of the student, or to override them completely in favour of a compelling Exit Ticket.
+I reserve the right to adjust those percentages to take into account the particular circumstances of the student as indicated at the top of this page, or to override them completely in favour of a compelling Exit Ticket.
