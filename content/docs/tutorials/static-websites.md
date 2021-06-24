@@ -37,4 +37,7 @@ Boom! [The full process is on this site with screenshots](https://help.github.co
 
 Now, there's a lot more to static websites than this. This course site is generated with [Hugo](https://gohugo.io); a site generator for building exhibitions, called 'Wax', is available [here](https://minicomp.github.io/wax/). (Speaking of exhibits, here's information about building them with [Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka).)
 
+(A word about Hugo: any [theme](https://themes.gohugo.io/) that you download to use with Hugo will contain within it a folder called 'ExampleSite'. The easiest way to get going is to copy the contents of the example site folder to your the 'quickstart' folder you create as part of the [create new site](https://gohugo.io/getting-started/quick-start/) process, in liu of step four, and then overwrite the demo content. Once you've got the content the way you want it, build the site with the `hugo` command; the site will be in the `public` folder. Drag and drop all of the content inside this folder into a new github repository. Enable github pages, make sure the source for github pages is set to the `main` branch, and you'll be good to go!)
+
+
 Customize your new site to be a 'front page' for your experience in this course; when you build your own digital history project, you could add your devlogs as pages to this site.
