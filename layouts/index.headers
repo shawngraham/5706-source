@@ -2,7 +2,7 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src 'self'; frame-ancestors https://jamstackthemes.dev; manifest-src 'self'; connect-src 'self'; font-src 'self'; img-src i.creativecommons.org licensebuttons.net i.imgur.com d242fdlp0qlcia.cloudfront.net sketchfab.com 'self' data:; script-src 'self' 'unsafe-inline' graddh.netlify.app hypothes.is cdn.hypothes.is cdn.hypothes.is/hypothesis; style-src cdn.hypothes.is cdnjs.cloudflare.com fonts.googleapis.com maxcdn.bootstrapcdn.com stackpath.bootstrapcdn.com platform.twitter.com 'self' 'unsafe-inline' use.fontawesome.com code.jquery.com; frame-src www.youtube.com hypothes.is sketchfab.com
+  Content-Security-Policy: default-src 'self'; frame-ancestors https://jamstackthemes.dev; manifest-src 'self'; connect-src 'self'; font-src 'self'; img-src i.creativecommons.org licensebuttons.net i.imgur.com d242fdlp0qlcia.cloudfront.net sketchfab.com 'self' data:; script-src 'self' 'unsafe-inline' graddh.netlify.app/data hypothes.is cdn.hypothes.is cdn.hypothes.is/hypothesis; style-src cdn.hypothes.is cdnjs.cloudflare.com fonts.googleapis.com maxcdn.bootstrapcdn.com stackpath.bootstrapcdn.com platform.twitter.com 'self' 'unsafe-inline' use.fontawesome.com code.jquery.com; frame-src www.youtube.com hypothes.is sketchfab.com
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin
   Feature-Policy: geolocation 'self'
