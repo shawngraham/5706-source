@@ -35,7 +35,7 @@ Download and install [Obsidian](https://obsidian.md).
 
 Then download and unzip my [Student Starter Vault](https://github.com/shawngraham/obsidian-student-starter-vault). A 'vault' is just a folder where your notes are found.
 
-Open Obsidian, then find and select the 'Student Starter Vault' to open.
+Open Obsidian, and explore the default 'help' vault. An important thing to know: the notes are all written in markdown, but somethings you have to hit the note 'preview' button to see what's going on. Hit the note's 'pencil' icon to get back to editing. The 'help' vault will give you a sense of how Obsidian works. When you're familiar with the interface, click the vault icon to open a new vault; find and selec the 'Student Starter Vault'.
 
 When the warning popup about community plugins & safe mode appears, turn safe mode OFF.
 
