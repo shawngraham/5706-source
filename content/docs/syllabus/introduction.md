@@ -38,3 +38,11 @@ Part of the learning will involve documenting your practice. You will leave this
 Please read each of the documents on this website listed in turn under the 'Syllabus' sidebar at left.
 
 {{< alert icon="⚡️" text="It is extremely important that you do the <a href='/docs/syllabus/cyoa'>CYOA</a> during the Sept 8 - 12 time frame." >}}
+
+## Acknowledgements
+
+This list is surely only going to grow, but to start with -
+
+- Rob Blades
+- Chantal Brousseau
+- Quinn Dombrowski
