@@ -48,8 +48,8 @@ By the end of this course:
 
 I am required by the University to provide a percentage breakdown.
 
-    Module 1: 20 %
-    Module 2: 40 %
-    Module 3: 40 %
+    Module 1: 33 %
+    Module 2: 33 %
+    Module 3: 33 %
 
 I reserve the right to adjust those percentages to take into account the particular circumstances of the student, or to override them completely in favour of a compelling Exit Ticket.
