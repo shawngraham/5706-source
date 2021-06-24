@@ -37,7 +37,9 @@ Part of the learning will involve documenting your practice. You will leave this
 
 Please read each of the documents on this website listed in turn under the 'Syllabus' sidebar at left.
 
-{{< alert icon="⚡️" text="It is extremely important that you do the <a href='/docs/syllabus/cyoa'>CYOA</a> during the Sept 8 - 12 time frame." >}}
+```
+It is extremely important that you do the <a href='/docs/syllabus/cyoa'>CYOA</a> during the Sept 8 - 12 time frame.
+```
 
 ## Acknowledgements
 
