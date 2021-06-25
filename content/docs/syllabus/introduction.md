@@ -43,6 +43,7 @@ Please read each of the documents on this website listed in turn under the 'Syll
 
 This list is surely only going to grow, but to start with -
 
-- Rob Blades
-- Chantal Brousseau
-- Quinn Dombrowski
+- Rob Blades for help with tutorial writing
+- Chantal Brousseau for help with tutorial and notebook writing
+- Quinn Dombrowski who has road-tested more versions of the CYOA than is probably healthy
+- Katherine Davidson for compiling the various resources into a singl [zotero library!](https://www.zotero.org/groups/4311532/carleton_university_hist_5706/library)
