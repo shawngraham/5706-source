@@ -33,12 +33,16 @@ You don't have to do this. But I'd be really interested if you gave this a try t
 
 Download and install [Obsidian](https://obsidian.md).
 
-Then download and unzip my [Student Starter Vault](https://github.com/shawngraham/obsidian-student-starter-vault). A 'vault' is just a folder where your notes are found.
+Then download and unzip my [DH Lab Notebook](https://github.com/shawngraham/obsidian-dh-lab-notebook). A 'vault' is just a folder where your notes are found.
 
-Open Obsidian, and explore the default 'help' vault. An important thing to know: the notes are all written in markdown, but somethings you have to hit the note 'preview' button to see what's going on. Hit the note's 'pencil' icon to get back to editing. The 'help' vault will give you a sense of how Obsidian works. When you're familiar with the interface, click the vault icon to open a new vault; find and selec the 'Student Starter Vault'.
+Open Obsidian, and explore the default 'help' vault. An important thing to know: the notes are all written in markdown, but somethings you have to hit the note 'preview' button to see what's going on. Hit the note's 'pencil' icon to get back to editing. The 'help' vault will give you a sense of how Obsidian works.
+
+When you're familiar with the interface, click the vault icon to open a new vault; find and select the 'DH Lab Notebook'.
 
 When the warning popup about community plugins & safe mode appears, turn safe mode OFF.
 
-This 'vault' is configured with plugins to make it easy to import your zotero notes and bibliography. It has a template to go out and grab your hypothesis annotations. If you drop an image file into the vault, it has a template to do OCR on that image and paste the resulting text into a new note. There are tools in there to help you find connections between your notes; one of them will examine your note and then use some text analysis to find related notes based on the text. As you try the various tutorials in this class, you can also keep notes via Obsidian's 'daily note' feature; this might be handy!
+This vault is configured with some simple templates for fetching and turning Hypothesis web/pdf annotations into notes, and for making log files to help with the digital tutorials for this course. As you try the various tutorials in this class, you can also keep notes via Obsidian's 'daily note' feature; this might be handy!
+
+(A vault with many more bells-and-whistles crafted especially for history students is available [here](https://github.com/shawngraham/obsidian-student-starter-vault) and you're welcome to give it a try too. This 'vault' is configured with plugins to make it easy to import zotero notes and bibliography. It has a template to go out and grab your hypothesis annotations. It has a template to create timelines from notes that detail events. If you drop an image file into the vault, it has a template to do OCR on that image and paste the resulting text into a new note. There are tools in there to help you find connections between your notes; one of them will examine your note and then use some text analysis to find related notes based on the text.) 
 
 Give it a try; let me know how it works.

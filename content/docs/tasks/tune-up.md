@@ -31,12 +31,17 @@ Because I do want you to know that you do not have to do this on your own, I wou
 
 ## Log Files
 
-As you do these tutorials, I want you to keep track of what you do by creating a private repository on your github account. You will keep a **log file for each tutorial**. This is an open document on your machine that you dump any error messages, any memos-to-self, any observations. Write this in markdown, save it as `log-file-for-tutorial-on-xxxx.md`. Put this into your repo, along with any screenshots you need or ancillary files you create.
+As you do these tutorials, I want you to keep track of what you do by creating a private repository on your github account. **Add me as a user to any private repos you want me to see.** ([Here's a reminder of how to do that, at step 8](https://graddh.netlify.app/docs/tutorials/github-basic/).)
+
+You will keep a **log file for each tutorial**. This is an open document on your machine that you dump any error messages, any memos-to-self, any observations. Write this in markdown, save it as `log-file-for-tutorial-on-xxxx.md`. Put this into your repo, along with any screenshots you need or ancillary files you create. See the [FAQ on What A Log File Should Contain](https://graddh.netlify.app/docs/syllabus/faq/).
 
 The point of the log file is that this begins to form the _paradata_ of your work. It also is a gift to Future You, who will return to this work at somepoint in the future wondering 'how the hang did I do ...'. The gold standard here is that there is enough detail about your process in your log that someone else (*cough* me) could pick up where you left off. (This is also part of doing 'reproducible' research).
 
 Feel free to make observations in your log file about how the choices you make as you do this work might intersect historiographically.
 
+## Log Your Work
+
+Please provide the link(s) to your repositories by entering the information on [this google form](https://forms.gle/KeCNnLpcuYVVFHgr5).
 
 ## Things will break
 

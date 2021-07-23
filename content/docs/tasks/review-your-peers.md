@@ -41,4 +41,6 @@ Reviews will not have:
 
 ## Submit
 
-Send as an email to me directly. I will compile so that I can discuss with you each individually what folks found compelling, etc.
+Please enter your review in the relevant box on [this google form](https://forms.gle/KeCNnLpcuYVVFHgr5).
+
+I intend to return a compiled & edited version of the review of your digital thing to each of you, privately via email.

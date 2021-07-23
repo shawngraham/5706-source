@@ -17,14 +17,13 @@ toc: true
 
 There are a lot of moving parts in this class. The course is arranged into modules:
 
-- Module 1 Getting to Know the Field
-- Module 2 How Do They Do That?
-- Module 3 Your Own Digital History
+- Module 1 Getting to Know the Field (Praelude; Reading Prep)
+- Module 2 How Do They Do That? (Digital Basics; How did they Do That?; Digital Tune Up)
+- Module 3 Your Own Digital History (Your Own Digital History; Everyone Else's Digital History; Exit Tickt)
 
 And within each module, there are a lot of different things that we will be doing. In the first week, after you've had a chance to examine this website and the [interactive syllabus](/docs/syllabus/cyoa), you'll indicate to me the percentage breakdown you want each module to count for.
 
 ## Learning Goals
-
 
 - This course will enable you to analyze and assess historical documents, artifacts, and other primary sources through the lens of digital history methods, critically applied, and you will develop awareness of the ways digital tools change what it is possible to know about the past.
 - At the same time, this ability will enable you to analyze and assess critically digital tools and methods from a historical perspective.
@@ -46,10 +45,10 @@ By the end of this course:
 
 ## Percentage Breakdown
 
-I am required by the University to provide a percentage breakdown.
+I am required by the University to provide a percentage breakdown; these are the 'default' values.
 
     Module 1: 33 %
     Module 2: 33 %
     Module 3: 33 %
 
-I reserve the right to adjust those percentages to take into account the particular circumstances of the student as indicated at the top of this page, or to override them completely in favour of a compelling Exit Ticket.
+I reserve the right to adjust those percentages to take into account the particular circumstances of the student **as indicated at the top of this page**, or to override them completely in favour of a compelling Exit Ticket.

@@ -45,3 +45,7 @@ As a reminder, these might include:
 ## Do I Have To Do These In Splendid Academic Isolation?
 
 No. No heroes here. Collaborate. Talk each other through things. Grab a cup of coffee, grab a beer. Find a nice picnic table out on the quad. Ask for help in discord. Show each other solutions to the problems you've encountered.
+
+## Log Your Work 
+
+Please provide the link(s) to your repositories by entering the information on [this google form](https://forms.gle/KeCNnLpcuYVVFHgr5).

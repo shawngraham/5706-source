@@ -41,6 +41,62 @@ That is, in many ways, part of the point. Things will break. It’s when things 
 
 Do I say that? I must, it's in the FAQ! An ambitious project that succeeds is _just as_ important to me as an ambitious project that fails spectacularly! Document everything, and swing for the bleachers. That is the recipe for success. You’re welcome to play it safe, but know that playing it safe leads to a diminished learning opportunity.
 
+## Where do I submit work?
+
++ Praelude: in the `#syllabus` Discord channel
++ Reading Prep: online annotations; post in the `#reading-prep` channel the links to the readings you've annotated
++ Collaborative Reading: respond to the online annotations as per the instructions; add a check-mark reaction in the `#reading-prep` channel to the relevant post once you've done so. Respond to responses to your annotations online.
++ Digital Basics: do the appropriate tutorials; keep your materials in a github repository. Use the submission form to send me the repository links. **Nb you can also ask for general help from everyone in this channel**
++ How did they do that?: Post in the `#dh-reviews` channel; tag me in your post.
++ Digital Tune Up: post in the `#tune-up` channel which tutorials you're going to work on; use the submission form to send me the repository link. **Nb you can also ask for general help from everyone in this channel**
++ Your Own Digital History: post the relevant devlog links in the `#our-projects` discord and tag me when you do. When you have completed this task, use the submission form to send me the repository link. **Nb you can also ask for general help from everyone in this channel**
++ Everyone else's digital history: paste your review into the submission form to send to me.
++ Exit Ticket: use the submission form (if your exit ticket is online) or send me an email telling me where/how to find your work. Put `hist5706f exit ticket` in the subect line.
+
+**[SUBMISSION FORM BEHIND THIS LINK](https://forms.gle/KeCNnLpcuYVVFHgr5)**
+
+## What should a 'log.md' file contain?
+
+It should contain enough information that someone else (including Future You) could pick up what you were doing where you left off. Here's a [template](https://raw.githubusercontent.com/shawngraham/obsidian-dh-lab-notebook/main/_simple-templates/worksheet.md). In Markdown:
+
+```
+---
+tutorial:
+date: 
+tags: tag1, tag2, etc
+---
+
+# what I was trying to do
+
+_description in own words; link to relevant tutorial or other materials_
+
+## how it might connect to other research I'm doing
+
+_describe; cross link to other research as appropriate_
+
+## what I did
+
++ step 1  
+	+ results
++ step 2
+	+ results
++ step 3
+	+ results
+
+_drop images, screenshots as relevant into the vault, link to them here. Use backticks to copy in relevant code snippets etc_
+
+## challenges
+
+_error messages, unclear instructions, gaps in my knowledge, links to relevant asks for help on discord, stackoverflow posts, websites I went to for help_
+
+## thoughts on where to go next
+
+_what can I do? who can I talk to? links to posts in discord, helpf fora, etc. links to other research projects etc_
+
+**copy this file to your github repository and rename it there ``log-file-for-tutorial-on-xxxx.md`**
+
+```
+
 ## How does digital history have an impact in the 'real world'?
 
 Well, maybe like this:

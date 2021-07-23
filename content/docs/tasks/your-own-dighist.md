@@ -45,13 +45,16 @@ You will need to
 
 ### Outputs
 
-- 3 devlogs, at the end of **Week 7**, **Week 9**, and **Week 10**. A devlog, for our purposes, will be a post in the relevant discord channel that sums up your progress to that point (use bold text in your post eg: **Shawn's Devlog 2, Nov 17**). These do not need to be overly long. A couple of paragraphs is fine. Alternatively, you can make the devlog a text file in your repository, and merely post the link for us in Discord (but nb, if your repo is private, no one can see it unless you explicitly share it with each username you want.)
+- 3 devlogs, at the end of **Week 7**, **Week 9**, and **Week 10**. A devlog, for our purposes, will be a post in the relevant discord channel that sums up your progress to that point (use bold text in your post eg: **Shawn's Devlog 2, Nov 17**). These do not need to be overly long. A couple of paragraphs is fine. Alternatively, you can make the devlog a text file in your repository, and merely post the link for us in Discord (but nb, that only works for **public** repos.)
+
 
 ### Completion Date
 
 - Share, and make public your _paradata_ (ie, the narrative explaining what you've done, the decisions you've made, the work you've done/learned how to do, why it might matter historically) using Github Pages **by the end of Week 11.**
 
-- Post the link to the relevant Discord channel
+## Log Your Work
+
+Please post the link to the relevant Discord channel, and for the sake of my record keeping, please provide the link(s) to your repositories by entering the information on [this google form](https://forms.gle/KeCNnLpcuYVVFHgr5).
 
 ## Potential Data Sources
 
