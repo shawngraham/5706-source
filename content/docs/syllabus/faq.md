@@ -23,7 +23,12 @@ It's on Discord. You should've received an invitation link in the first week of 
 
 ## What if life intervenes?
 
-Life always has a habit of doing that. There's pretty much nothing we can't recover from, insofar as this course is concerned, _as long as you let me know that something's up_. You don't have to give me the details; I trust you. I don't need medical certificates either, by the way. Just let me know, and we'll adapt accordingly.
+Life always has a habit of doing that. There's pretty much nothing we can't recover from, insofar as this course is concerned, _as long as you let me know that something's up_. You don't have to give me the details; I trust you. Just send an email with the subject "something's up". I don't need medical certificates either, by the way. Just let me know, and we'll adapt accordingly.
+
+## What about COVID?
+
+Ditto 'life intervenes.' If something COVID related emerges, just send an email with the subject "something's up". Again, I don't need medical certificates and so on. We'll figure out something.
+
 
 ## There's public facing work; what do I do if I'm uncomfortable with that?
 
@@ -62,7 +67,7 @@ It should contain enough information that someone else (including Future You) co
 ```
 ---
 tutorial:
-date: 
+date:
 tags: tag1, tag2, etc
 ---
 
