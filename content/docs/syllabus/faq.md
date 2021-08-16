@@ -29,7 +29,6 @@ Life always has a habit of doing that. There's pretty much nothing we can't reco
 
 Ditto 'life intervenes.' If something COVID related emerges, just send an email with the subject "something's up". Again, I don't need medical certificates and so on. We'll figure out something.
 
-
 ## There's public facing work; what do I do if I'm uncomfortable with that?
 
 There's at least two things we can do. 1) You can use a pseudonym in all public-facing work, or 2) we can work out a way of hitting the learning goals for this course without doing the public-facing work. **There are many reasons why a person might not want their real name associated with course work, in public.** I don't need to know your reasons. No questions asked.
