@@ -15,7 +15,7 @@ toc: true
 
 ## How do I contact you?
 
-I'm at shawn.graham@carleton.ca; I'm on twitter [https://twitter.com/electricarchaeo]; and if we're on campus in person, I'm either in PA406 or the Library Starbucks.
+I'm at shawn.graham@carleton.ca; I'm on [twitter as @electricarchaeo](https://twitter.com/electricarchaeo); and if we're on campus in person, I'm either in PA406 or the Library Starbucks.
 
 ## Where is our course 'social space'?
 
@@ -27,7 +27,7 @@ Life always has a habit of doing that. There's pretty much nothing we can't reco
 
 ## What about COVID?
 
-Ditto 'life intervenes.' If something COVID related emerges, just send an email with the subject "something's up". Again, I don't need medical certificates and so on. We'll figure out something.
+Ditto 'life intervenes.' If something COVID related emerges, just send an email with the subject "something's up". Again, I don't need medical certificates and so on. We'll figure out a way for you to get the most out of this class in a way that doesn't wreck you. Grad school shouldn't be cruel.
 
 ## There's public facing work; what do I do if I'm uncomfortable with that?
 
@@ -35,7 +35,7 @@ There's at least two things we can do. 1) You can use a pseudonym in all public-
 
 ## Do I need to be 'techy'?
 
-What does that mean, ‘techy’? It’s worth pondering. Short answer: no. If you can write an email, there’s nothing we’ll do in this course that is beyond you. It might tech practice, but you'll get there, eventually. By the same lights, **if it doesn't come in 30 minutes, it won't come in 3 hrs**. If you're at that point, _please_ for the love of all that's sacred, talk about it in Discord. Share what you're doing, what you think ought to be happening, ask for another pair of eyes on the problem. DH is a team sport (but not in the sense of being always picked last for the team, or one of those horribly dsyfunctional teams we had to be on in high school. No, the _good_ kind of team. One that has your back.)
+What does that mean, ‘techy’? It’s worth pondering. Short answer: no. If you can write an email, there’s nothing we’ll do in this course that is beyond you. It might take practice, but you'll get there, eventually. By the same lights, **if it doesn't come in 30 minutes, it won't come in 3 hrs**. If you're at that point, _please_ for the love of all that's sacred, talk about it in Discord. Share what you're doing, what you think ought to be happening, ask for another pair of eyes on the problem. DH is a team sport (but not in the sense of being always picked last for the team, or one of those horribly dsyfunctional teams we had to be on in high school. No, the _good_ kind of team. One that has your back. Like the A-Team.)
 
 ## Seriously, what happens if something doesn't work?
 
@@ -43,7 +43,7 @@ That is, in many ways, part of the point. Things will break. It’s when things 
 
 ## What do you mean when you say things like, 'glorious failure is as valuable as glorious success?'
 
-Do I say that? I must, it's in the FAQ! An ambitious project that succeeds is _just as_ important to me as an ambitious project that fails spectacularly! Document everything, and swing for the bleachers. That is the recipe for success. You’re welcome to play it safe, but know that playing it safe leads to a diminished learning opportunity.
+Do I say that? I must, it's in the FAQ! An ambitious project that fails spectacularly is _just as_ important to me as an ambitious project that succeeds! **Document everything, and swing for the bleachers.** That is the recipe for success. You’re welcome to play it safe, but know that playing it safe leads to a diminished learning opportunity.
 
 ## Where do I submit work?
 
@@ -87,7 +87,7 @@ _describe; cross link to other research as appropriate_
 + step 3
 	+ results
 
-_drop images, screenshots as relevant into the vault, link to them here. Use backticks to copy in relevant code snippets etc_
+_drop images, screenshots as relevant into the vault, link to them here. Use backticks to copy in relevant code snippets etc; image links are formed with ![text description](filename.extension)_
 
 ## challenges
 
@@ -108,19 +108,19 @@ Well, maybe like this:
 - digital history is about [making](https://jentery.github.io/ts200v2/notes.html)|[things](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries) (where 'making' and 'things' is understood to be wonderfully expansive)
 - the point of making is about [discovery, not justification](http://www.trevorowens.org/2012/11/discovery-and-justification-are-different-notes-on-sciencing-the-humanities/)
 - through making we come [to understand the issue deeply, differently, divergently](http://src-online.ca/index.php/src/article/viewFile/209/429)
-- that making might let us find again [the web we lost](http://anildash.com/2012/12/the-web-we-lost.html), [the web we have to save](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426).
-- that the digital world overlays and intertwines the physical world and so we can't leave it to the [tech folks](https://ethics.acm.org/code-of-ethics/) alone: we must engage!
-- that because this engagement can involve using digital tools, platforms, and data against the ways that the hegemons desire, [it is political](http://xpmethod.plaintext.in/torn-apart/volume/2/index)
-- that because it is political, it involves [an element of danger](https://hackblossom.org/cybersecurity/)
+- making might let us find again [the web we lost](http://anildash.com/2012/12/the-web-we-lost.html), [the web we have to save](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426).
+- the digital world overlays and intertwines the physical world and so we can't leave it to the [tech folks](https://ethics.acm.org/code-of-ethics/) alone: we must engage!
+- because this engagement can involve using digital tools, platforms, and data against the ways that hegemons desire, [it is political](http://xpmethod.plaintext.in/torn-apart/volume/2/index)
+- because it is political, it involves [an element of danger](https://hackblossom.org/cybersecurity/)
 - and so the impact of digital history might be via [truth and beauty bombs](https://epoiesen.library.carleton.ca/2017/05/04/truth-and-beauty-bombs/)
 
 ## What are your ambitions for us in this class?
 
-True confession: I have no training in digital history. I trained as an archaeologist. Anything I know, I've [learned the hard way](https://electricarchaeology.ca/2012/05/18/how-i-lost-the-crowd-a-tale-of-sorrow-and-hope/). Anything I know, it's come about through [failing/flailing in public](https://www.youtube.com/watch?v=Lo_QQl22Uhg).
+True confession: I have no training in digital history. I trained as an archaeologist. Anything I know, I've [learned the hard way](https://electricarchaeology.ca/2012/05/18/how-i-lost-the-crowd-a-tale-of-sorrow-and-hope/). Anything I know, it's come about through [failing/flailing in public](https://www.youtube.com/watch?v=Lo_QQl22Uhg) (sometimes, it [can be glorious](https://thedigitalpress.org/failing-gloriously/) if it's done right).
 
 It's a helluva way to learn, when your job is on the line.
 
-My goal then for you is to make it safe to fail at this thing 'digital history'. There are no hidden gotchas here. I know that most of you will have very little meaningful digital experience - there's a difference between _using_ a tool or platform given to you, and _opening the hood_ to understand why something is the way it is: and to use that knowledge to tell better history.
+My goal then for you is to make it safe to fail at this thing 'digital history'. There are no hidden gotchas here. I might not connect all the dots well enough sometimes, but that at least is a different issue. I know that most of you might have had very little meaningful digital experience yet - there's a difference between _using_ a tool or platform given to you, and _opening the hood_ to understand why something is the way it is: and to use that knowledge to tell better history.
 
 Therefore,
 
@@ -128,7 +128,7 @@ Therefore,
 >
 >   — Jesse Stommel, Twitter (@Jessifer) April 30, 2016
 
-For me to 'trust students' means that I recognize that each of you will want something different out of this class. We're going to have to meet in the middle - but the middle is going to be different for each of you. In which case, while you'll all be doing broadly similar things in terms of assessment, you'll see that the 'assessment' weights will be personalized for each of you. You will determine the emphasis.
+For me to 'trust students' means that I recognize that each of you will want something different out of this class. We're going to have to meet in the middle - but the middle is going to be different for each of you. In which case, while you'll all be doing broadly similar things in terms of assessment, you'll see that the 'assessment' weights can be personalized for each of you. You will determine the emphasis.
 
 If you don't swing for the bleachers now, when will you ever get the invitation again?
 
@@ -149,6 +149,6 @@ This will be uncomfortable at times. It will be frustrating. When you hit the wa
 
 Your MA years will be tough, sometimes. Know that openly discussing failure is a normal part of digital history.
 
-It may happen that **nothing** you try to build works quite the way you want it to. So what? Again, digital history is a team sport. Writing about failure is a bit like icing the puck - it gives you breathing room, it lets you set up a new play, it gets some fresh skaters out there.
+It may happen that **nothing** you try to build works quite the way you want it to. **So what?** Again, digital history is a team sport. Writing about failure is a bit like icing the puck - it gives you breathing room, it lets you set up a new play, it gets some fresh skaters out there.
 
 Congratulations - you're on the team!

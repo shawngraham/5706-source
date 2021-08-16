@@ -43,7 +43,7 @@ The three elements in the URL are:
 
 The z value has a range between 0 and 21, where 21 returns a tile with greatest detail (and smallest sized tile).
 
-<img src="https://o-date.github.io/draft/book/images/tile-pyramid.jpg" width="600" />
+![](/images/tile-pyramid.jpg)
 
 'Image Tile Pyramid, [https://www.azavea.com/blog/2018/08/06/generating-pyramided-tiles-from-a-geotiff-using-geotrellis/tilepyramid/](https://www.azavea.com/blog/2018/08/06/generating-pyramided-tiles-from-a-geotiff-using-geotrellis/tilepyramid/)’
 
@@ -156,7 +156,7 @@ Congratulations! You have made a webmap! Do you see how you could recenter the m
 
 [Map Warper](https://mapwarper.net) is a service that allows us to upload images of maps, and then tie 'control points' to real-world geography such that we stretch and warp the image to overlay the physical world. It then provides us with a tile-server so that the image can be imported into our map as its own layer. Take a look at this map of Ottawa:
 
-<img src="https://legacy.lib.utexas.edu/maps/historical/ottawa_1894.jpg" width="600" />
+![](/images/ottawa_1894.jpg" width="600" />
 
 This was uploaded to Mapwarper and georectified by a former MA student at Carleton. You can see it on Mapwarper [at this location](https://mapwarper.net/maps/29435).
 
