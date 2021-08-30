@@ -39,6 +39,8 @@ At [Databasic.io](http://databasic.io) there are simple web-tools to help you se
 
 ![](/images/databasic.png)
 
+**New tool** If you don't have a particularly large dataset, give [_Network Navigator_](https://networknavigator.jrladd.com/) a try; this tool also has some interesting visualization options that often capture very nearly everything you need.
+
 ### More complex visualizatons and analysis
 
 Connect the dots is pretty basic. If you want to do more complex network visualizations and analysis, you can try [Gephi](http://gephi.org):
