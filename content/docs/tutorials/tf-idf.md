@@ -147,8 +147,7 @@ Knowing those counts, and knowing which files they're in, we can **now** tell R 
 The result is that we get three new colunns added to our data_words table: tf, idf, and the final tf_idf score _per word_.
 
 ```R
-data_tf_idf <- data_words %>%
-  bind_tf_idf(word, source, n)
+data_tf_idf <- data_words %>% bind_tf_idf(word, source, n)
 ```
 
 I told you tf-idf only needed one line of code!
@@ -190,6 +189,8 @@ The first option is the **aes**thethics:
 
 
 So there you have it: data loaded up, cleaned, processed, counted, visualized.
+
+![](/images/tf-idf-result.png)
 
 ## One last thing
 
