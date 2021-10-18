@@ -63,11 +63,15 @@ curl -LO https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspee
 curl -LO https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.scorer
 ```
 
+or eg `wget https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.scorer`
+
+These are very large files, by the way, and depending on your connection, might take a bit of time.
+
 ## Prepare your files
 
 Now, if your files are already in `*.wav` format, you're good to go. But if they're not, `ffmpeg` is your friend. Windows users, [follow these steps](https://www.wikihow.com/Install-FFmpeg-on-Windows). Mac users can use Homebrew: `brew install ffmpeg`.
 
-Let's assume you, like me, have a folder of mp4 files. Open a command prompt/terminal prompt in that folder. The following one liner looks for every file in the folder that has the mp4 file extension. It then calls on ffmpeg to transform the mp4 into a wav file, one at a time, and preservers the file name so you know which .wav derives from which .mp4. And then, having done all that, the iteration is closed with the `done`.
+Let's assume you, like me, have a folder of mp4 files. Open a command prompt/terminal prompt in that folder. The following one liner looks for every file in the folder that has the mp4 file extension. It then calls on ffmpeg to transform the mp4 into a wav file, one at a time, and preserves the file name so you know which .wav derives from which .mp4. And then, having done all that, the iteration is closed with the `done`.
 
 ```bash
 for f in *.mp4;do ffmpeg -i "$f" -vn "${f%mp4}.wav";done
