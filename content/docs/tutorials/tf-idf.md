@@ -56,11 +56,11 @@ setwd("/Users/shawngraham/tf-idf-tutorial")
 Packages, in R, are little bits of code, routines, helper functions, designed to achieve particular aims. We install packages with the `install.packages()` command, and we tell R that we intend to use a particular package with the `library()` command. It might take a bit of time to load these packages up. These are quite standard packages, so you should be able to install these without issue.
 
 ```R
-install.packages(tm)
-install.packages(tidyverse)
-install.packages(tidytext)
-install.packages(magrittr)
-install.packages(ggplot2)
+install.packages('tm')
+install.packages('tidyverse')
+install.packages('tidytext')
+install.packages('magrittr')
+install.packages('ggplot2')
 
 library(tm)
 library(tidyverse)
