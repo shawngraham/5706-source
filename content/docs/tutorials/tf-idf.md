@@ -71,7 +71,14 @@ library(ggplot2)
 
 ## Load The Data; Clean It Up
 
-Now we'll use other commands from the tm package to preprocess the text to make it easier to work with. Notice the last command is 'turned off' by putting a `#` in front of it. If you delete that `#` and run that line, tm will cut off the endings of words so that you just have the stems. There could be linguistic or analytic reasons why you might want to do that.
+We're now going to use the Corpus command, which is part of the tm package, to read all of the text files from the data directory and place them in a variable called `a` (which is just a name; you could call it anything.)
+
+```R
+a <- Corpus(DirSource("data/"),
+            readerControl=list(language="lat")) #lat = latin characters
+```
+
+We'll use other commands from the tm package to preprocess the text to make it easier to work with. Notice the last command is 'turned off' by putting a `#` in front of it. If you delete that `#` and run that line, tm will cut off the endings of words so that you just have the stems. There could be linguistic or analytic reasons why you might want to do that.
 
 The following series of commands create a variable called `a` (the name doesn't really matter) and then in a series of steps clean up the text by removing any digits, punctuation, and so on.
 
