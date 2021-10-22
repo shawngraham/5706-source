@@ -88,6 +88,12 @@ Select all the wav files and move them into their own folder. I would suggest ha
   |-deepspeech-0.9.3-models.scorer
 ```
 
+**nb** Technically, Deepspeech is expecting a wav file, mono channel, with 16kz sampling. If when you run the commands below you get some kind of error about your wav file, that might be the issue. You can convert your file appropriately with ffmpeg like this:
+
+`ffmpeg -i file-to-be-fixed.wav -acodec pcm_s161e -ac 1 -ar 16000 fixed-version.wav`
+
+That command tells ffmpeg to take `file-to-be-fixed.wav`, apply some transformations to mix the audio down to a mono channel, and then sample the results at 16 kz and write it to a new file, `fixed-version.wav`. 
+
 ## Transcribe One File!
 
 First, I'll show you how to use DeepSpeech on _one_ file; you'll do this to get a sense of how it works, and how long things will take.
