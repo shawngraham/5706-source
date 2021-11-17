@@ -21,7 +21,7 @@ Given what we've seen about making [static websites with github](/docs/tutorials
 
 CollectionBuilder, from the [University of Idaho Library](https://www.lib.uidaho.edu/) is a series of Jekyll-powered templates that take metadata about your collection, arranged in a csv file, and produces a website to display your digital collection. It comes with maps, data download, search and more.
 
-![](https://collectionbuilder.github.io/images/gh-base.jpg) Currently, there are three separate templates one could use. [The first uses Github Pages](https://collectionbuilder.github.io/gh/) to power the complete website _including_ storage of your collection objects (pictures, videos, etc). [A demo of this template is behind this link.](https://collectionbuilder.github.io/collectionbuilder-gh/).
+Currently, there are three separate templates one could use. [The first uses Github Pages](https://collectionbuilder.github.io/gh/) to power the complete website _including_ storage of your collection objects (pictures, videos, etc). [A demo of this template is behind this link.](https://collectionbuilder.github.io/collectionbuilder-gh/)
 
 The second template, [CollectionBuilder-CSV](https://collectionbuilder.github.io/csv/) allows for greater customization, and you can use it with assets that are elsewhere - perhaps a local historical society has already uploaded a number of photographs to Flickr for instance, and wants to do something more involved. [There is a demo of this template behind this link](https://www.lib.uidaho.edu/queered/).
 
@@ -29,12 +29,12 @@ The third template is for using with the 'ContentDM' service; it applies a 'skin
 
 ## Collectionbuilder-GH
 
-CollectionBuilder is well supported with documentation and tutorials. The GH-Pages powered template (meant for small collections, where everything - including the cultural heritage materials - are held in the same repository) is available here. I am going to direct you here to their [workshop materials for this template](https://collectionbuilder.github.io/workshop/gh/) and suggest you work through those.
+CollectionBuilder is well supported with documentation and tutorials. The GH-Pages powered template (meant for small collections, where everything - including the cultural heritage materials - are held in the same repository) [is available here](https://github.com/CollectionBuilder/collectionbuilder-gh). I am going to direct you here to their [workshop materials for this template](https://collectionbuilder.github.io/workshop/gh/) and suggest you work through those.
 
 [Here is the template itself](https://github.com/CollectionBuilder/collectionbuilder-gh).
 
 1. To get started, log into Github. Then, go to this repo and click on the green 'Use this template' button.
-2. Go to the repo settings for the repo you created when you clicked on that button. Turn on the GH Pages option. This will trigger Github to use Jekyll to turn the template into a site. You'll find the location of your site **a few minutes later** at <your-username>.github.io/<name-of-repo>.
+2. Go to the repo settings for the repo you created when you clicked on that button. Turn on the GH Pages option. This will trigger Github to use Jekyll to turn the template into a site. You'll find the location of your site **a few minutes later** at `https://your-username.github.io/name-of-repo`.
 3. Now, back in your repository, there is a file at its top level called `_config.yml`. Go to that file; it's at `github.com/your-username/whatever-you-called-the-repo/blob/main/_config.yml`. Hit the edit icon (looks like a pencil). This file lists a bunch of settings. You'll want to change line 12 to remove the `#` to set the `url:` variable to point to your live site, eg, something like: `url: https://your-user-name.github.io`. Line 14 you'll give the name of the repo: `baseurl: name-of-repo`. Further down, at lines 23, 25, 28 and 30 are settings for the site title, tagline, description, and author. **NB** If you put a colon anywhere in the values in a yml file, you will break your website. So if you wanted the site title to be something like `HIST5706: Embrace the DH`, you'd change line 23 like this: `title: "HIST5706: Embrace the DH"`. That is, you _wrap_ the text in quotation marks, so that the machine knows that the colon isn't trying to define a variable setting.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FbWGLFRpAlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -45,7 +45,7 @@ If you want to use your _own_ materials, rather than the ones used in the Worksh
 
 You'll then load your objects that you collected into the `objects` folder in your repository.
 
-Upload your csv, calling it `metadata.csv` to the `_data` folder. **THEN** go back to the `_config.yml` button and change line 37 to point to _your_ metadata **without** the .csv: `metadata: my-metadata`
+Upload your `my-metadata.csv` to the `_data` folder. **THEN** go back to the `_config.yml` file, hit the 'edit' button, and change line 37 to point to _your_ metadata **without** the .csv: `metadata: my-metadata`
 
 Once you make this final change (hitting the commit button), the site will build and will be populated with _your_ materials.
 
@@ -79,7 +79,10 @@ metadata: demo-sg
 
 When you made all of those changes ('commits', remember), you triggered Github to try to run its default Jekyll engine on the code. **This will not work**. Instead, we're going to give Github some special instructions - called 'actions' - to get Github to do things the way we want (full documentation of this step is [here](https://collectionbuilder.github.io/cb-docs/docs/deploy/actions/)).
 
-Back on the home page for your repository, you're going to create a special file. Click "add file > create new file". Type in the following exactly as the file name: `.github/workflows/jekyll.yml` **yes that is a period in front of the word github!** Then, in the editor window, paste the following:
+Back on the home page for your repository, you're going to create a special file. Click "add file > create new file". Type in the following exactly as the file name:
+ `.github/workflows/jekyll.yml`
+
+ **and yes that is a period in front of the word github!** Then, in the editor window, paste the following:
 
 ```
 name: build site with jekyll and deploy on github pages
@@ -124,7 +127,9 @@ jobs:
 
 Hit the green commit button.
 
-**One last thing** Now, go to your repo settings, select 'Pages', and change the branch from `main` (or possibly, 'master') to `gh-pages`.
+## One last thing
+
+Now, go to your repo settings, select 'Pages', and change the branch from `main` (or possibly, 'master') to `gh-pages`.
 
 In a few minutes, your site should be up and running at `https://your-user-name/github.io/name-of-repo`.
 
