@@ -78,7 +78,28 @@ data(stop_words)
 tidy_cb <- tidy_cb %>%
   anti_join(stop_words)
 ```
-6. In the console, take a look at how your data has been transformed. Type `cb` and hit enter - you'll see a table very much like how your data would look if you opened it in excel. Type `cb_df` and it's still table like, but columns and digits are removed. Type `tidy_cb` and you'll see it's a list of words, with metadata indicating which document the word is a part of, and which year the document was written! Transforming your data like this makes it more amenable to text analysis. Let's continue.
+6. In the console, take a look at how your data has been transformed. Type `cb` and hit enter - you'll see a table very much like how your data would look if you opened it in excel. Type `cb_df` and it's still table like, but columns and digits are removed. Type `tidy_cb` and you'll see it's a list of words, with metadata indicating which document the word is a part of, and which year the document was written!
+
+Think of it like this: `cb_df` is a bit like a shopping list:
+
+```
+costco        | eggs, milk, butter, apples
+canadian tire | wrench, toolbox, skates
+```
+
+while `tidy_cb` is a bit like a receipt:
+
+```
+eggs    | costco
+milk    | costco
+butter  | costco
+apples  | costco
+wrench  | canadian tire
+toolbox | canadian tire
+skates  | canadian tire
+```
+
+Transforming your data like this makes it more amenable to text analysis. Let's continue.
 
 7. We can now transform that list into a matrix, which will enable us to do the topic model. Add, and then run, the following lines to your script:
 
